@@ -1,0 +1,9 @@
+.text-style{
+ -fx-font-smoothing-type: lcd;
+ -fx-font-family: "Comic Sans MS";
+ -fx-fill: black;
+ -fx-horizontalAlign: center;
+ -fx-font-size: 20pt;
+ -fx-font-weight: bold;
+ -fx-padding: 8,8,8,8;
+}
